@@ -10,8 +10,8 @@
   "runtime~main.js": "/static/js/runtime~main.82555cf6.js",
   "runtime~main.js.map": "/static/js/runtime~main.82555cf6.js.map",
   "static/media/App.css": "/static/media/background.ae451b2b.jpg",
-  "static/css/2.3a920ac3.chunk.css.map": "/static/css/2.3a920ac3.chunk.css.map",
   "static/css/main.e800de5c.chunk.css.map": "/static/css/main.e800de5c.chunk.css.map",
+  "static/css/2.3a920ac3.chunk.css.map": "/static/css/2.3a920ac3.chunk.css.map",
   "index.html": "/index.html",
   "precache-manifest.4ce44d376e6a30811f1c3a9ada99060b.js": "/precache-manifest.4ce44d376e6a30811f1c3a9ada99060b.js",
   "service-worker.js": "/service-worker.js"
