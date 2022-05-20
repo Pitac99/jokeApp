@@ -4,6 +4,7 @@ body, html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  vertical-align: middle;
 }
 
 @font-face {
@@ -13,7 +14,7 @@ body, html {
   src: local('Chuck_Norris'), url('./Chuck_Norris.otf') format('opentype');
   }
 
-h2{
+h1{
   font-family: 'Chuck Norris';
   font-weight: 200;
   color: #ffffff;
@@ -22,4 +23,8 @@ h2{
 button:hover{
   background-color: rgb(24, 22, 22);
   cursor: pointer;
+}
+
+.center{
+  padding-top: 20%;
 }

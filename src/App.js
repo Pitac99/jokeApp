@@ -28,12 +28,14 @@ render()
     console.log('click')
   }
 return (
-  
-    <div>
+    <div className='vh-100 dt w-100'>
+      <div className="dtc v-mid tc ph3 ph4-l">
+    <h1 className="f1 white">Chuck Norris</h1>
       <Joke randomJoke={finalJoke}/>
-      <button onClick={handleClick} className="garamond f4 br2 ph3 pv2 dib mb2 white bg-black b ml7 mt3">
+      <button onClick={handleClick} className="garamond f4 br2 ph3 pv2 dib mb2 white bg-black b mt4">
        Random Joke
        </button>
+    </div>
     </div>
   );
 }}
